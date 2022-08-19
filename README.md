@@ -1,0 +1,4 @@
+- Hi,
+- I'm currently learning Javascript✨
+- I'm so excited to share my journey! YEY!💞️
+- How to reach me: Mail (zakdogan34@gmail.com)📫
