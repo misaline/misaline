@@ -1,4 +1,4 @@
-- Hi,
-- I'm currently learning Javascript✨
+- Hi, I'm Zehra!
+- I'm currently learning JavaScript / TypeScript and some popular frontend frameworks such as Vue and React✨
 - I'm so excited to share my journey! YEY!💞️
 - How to reach me: Mail (zakdogan34@gmail.com)📫
